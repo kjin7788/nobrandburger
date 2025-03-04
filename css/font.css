@@ -1,0 +1,24 @@
+@font-face{
+    font-family: 'pretendard';
+    src: url(../font/Pretendard-Medium.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'pretendard-Bold';
+    src: url(../font/Pretendard-Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'pretendard-Regular';
+    src: url(../font/Pretendard-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'pretendard-Thin';
+    src: url(../font/Pretendard-Thin.otf);
+    font-weight: normal;
+    font-style: normal;
+}
